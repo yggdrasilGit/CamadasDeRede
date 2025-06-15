@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings (caso use VS Code)
+.vscode/
+
+# Arquivos temporários / logs
+*.log
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache e testes
+.cache/
+*.pytest_cache/
+
+# Arquivos de pacotes Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks (caso use)
+.ipynb_checkpoints/
